@@ -1,0 +1,3 @@
+# GuitarAssistant
+“GuitarAssistant“ is an app that gives you the access to everything you need when you play. so you wanna play guitar? you’ll need the chords , you’ll need to tune your guitar and you may probebly fill the necessity of famous lyrics . It’s simple and easy to use. Everything in the app is categorized ;so Without waste of time; you can find your own music according To the rhythms. you can also search Through chords easily; just type and you’ll have the tablature. so if you’re interested in playing guitar don’t hesitate,download the app and enjoy it for free!
+Created by Hanieh Toutouni
