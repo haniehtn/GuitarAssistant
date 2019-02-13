@@ -1,0 +1,20 @@
+PODS:
+  - AudioKit (2.3)
+  - Pitchy (3.0.0)
+
+DEPENDENCIES:
+  - AudioKit (~> 2.2)
+  - Pitchy
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AudioKit
+    - Pitchy
+
+SPEC CHECKSUMS:
+  AudioKit: 393be71739265448039ef268f3582dee82783b0d
+  Pitchy: 15407e4425b6d88fa3e7eef8927ba659fab52d7a
+
+PODFILE CHECKSUM: 629d62ae4877d888e5d857b3966f86b44a16cf5c
+
+COCOAPODS: 1.5.3
